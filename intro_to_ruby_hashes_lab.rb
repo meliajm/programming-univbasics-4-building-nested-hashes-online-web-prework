@@ -18,8 +18,8 @@ def monopoly_with_third_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   {railroads: {pieces: 4,
-              rent_in_dollars: {one_piece_owned: 25, two_piece_owned: 50, three_piece_owned: 75, 
-              four_piece_owned: 100}, 
+              rent_in_dollars: {one_piece_owned: 25, two_pieces_owned: 50, three_pieces_owned: 75, 
+              four_pieces_owned: 100}, 
               names: {a: "", b: "", c: "", d: ""}
     }
   }
